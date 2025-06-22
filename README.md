@@ -29,10 +29,6 @@ The live version is available at: [MyPortfolio](https://shawkath.netlify.app/)
 - Clean section layout with sticky header  
 - Galaxy-themed transparent video background
 
-## 📸 Preview
-
-![Portfolio Screenshot](https://github.com/shawkath73/Portfolio-Website/blob/main/Screenshot_22-6-2025_13219_shawkath.netlify.app.jpeg?raw=true)
-
 ## 📬 Contact
 
 If you'd like to connect or collaborate, feel free to [reach out via email](mailto:shawkathvimuhammed@gmail.com) or visit my [GitHub profile](https://github.com/shawkath73).
