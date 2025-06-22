@@ -5,8 +5,7 @@ Welcome to my personal portfolio website, built to showcase my skills, projects,
 ## 🌍 Hosting
 
 This portfolio website is hosted on **Netlify** – a platform for deploying fast, modern websites.  
-The live version is available at: [MyPortfolio](https://shawkath.netlify.app/)  
-*Deployed by dragging and dropping the built site folder directly to Netlify's dashboard.*
+The live version is available at: [MyPortfolio](https://shawkath.netlify.app/) 
 
 ## 🚀 Tech Stack
 
