@@ -32,7 +32,7 @@ The live version is available at: [MyPortfolio](https://shawkath.netlify.app/)
 
 ## 📸 Preview
 
-![Portfolio Screenshot](./screenshot.png)
+![Portfolio Screenshot](https://github.com/shawkath73/Portfolio-Website/blob/main/Screenshot_22-6-2025_13219_shawkath.netlify.app.jpeg?raw=true)
 
 ## 📬 Contact
 
