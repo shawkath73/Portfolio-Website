@@ -27,11 +27,12 @@
                 <div class="col-md-6 col-3 me-auto">
                     <nav class="navbar navbar-expand-lg navbar-light">
   <div class="container-fluid">
-    <button class="navbar-toggler ms-auto" style="color: #F9FAFB;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler ms-auto" id="nav-toggler" style="color: #F9FAFB;" type="button" >
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav ms-auto mb-2 mb-lg-0 my-auto" >
+      <i class='bx bx-x close-icon' id="nav-close" style="display: none; font-size: 2rem;"></i>
+    <div class="collapse navbar-collapse pt-4 pt-md-0 pe-5"  id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0 my-auto">
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" style="color: #F9FAFB;transition: .3s;" href="#home">Home</a>
         </li>
@@ -47,6 +48,7 @@
         <li class="nav-item navhover">
           <a class="nav-link" style="color: #F9FAFB;transition: .3s" href="#contact">Contact</a>
         </li>
+        </ul>
     </div>
   </div>
 </nav>
