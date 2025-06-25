@@ -11,7 +11,7 @@ The live version is available at: [MyPortfolio](https://shawkath.netlify.app/)
 
 - **Frontend**: HTML5, CSS3, Bootstrap 5, JavaScript, jQuery
 - **Animations & Effects**: CSS Keyframes, Typed.js, ScrollReveal.js
-- **Design Theme**: Galaxy-inspired with gradient overlays and modern dark UI
+- **Design Theme**: Processor-inspired with gradient overlays and modern dark UI
 
 ## 📁 Sections Included
 
@@ -27,7 +27,7 @@ The live version is available at: [MyPortfolio](https://shawkath.netlify.app/)
 - Animated gradient backgrounds  
 - Scroll animations and hover interactions  
 - Clean section layout with sticky header  
-- Galaxy-themed transparent video background
+- Processor-themed transparent video background
 
 ## 📬 Contact
 
